@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473014294450",
+    "firebase_url": "https://mountbawbaw-9189d.firebaseio.com",
+    "project_id": "mountbawbaw-9189d",
+    "storage_bucket": "mountbawbaw-9189d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473014294450:android:28d33a5a78f14ccb",
+        "android_client_info": {
+          "package_name": "com.enterprisemonkey.MTBawBaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473014294450-iebec5vhnnagh474qh34mk6r13eq56ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh7i3tgXHR2LRrhCrzevOP9TWPpWD4iIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473014294450-iebec5vhnnagh474qh34mk6r13eq56ei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473014294450-0fl23leio0e21ljm81ji3neppf6a9h8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enterprisemonkey.MTBawBaw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
